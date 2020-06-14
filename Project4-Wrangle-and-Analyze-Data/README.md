@@ -10,3 +10,4 @@ The dataset I will be wrangling (and analyzing and visualizing) is the tweet arc
 	- Twitter API: Using the tweet IDs in the WeRateDogs Twitter archive (file on hand), I will query the Twitter API for each tweet's JSON data using Python's Tweepy library
 	
 
+#### After cleaning, all three files are then merged into a single dataframe and stored as a csv file and into a SQL lite Database
