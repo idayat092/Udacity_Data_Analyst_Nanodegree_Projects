@@ -1,4 +1,4 @@
-# Udacity_Data_Analyst_Nanodegree_Projects
+## Udacity_Data_Analyst_Nanodegree_Projects
 
 **Gives details of the 5 projects I executed during the Data Analyst Nanodegree Program. Each Project details is stored in different folders.**
 
