@@ -5,8 +5,8 @@ The objective of this project is to show my understanding of the data analysis p
 This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not patients show up for their appointment.
 
 The subsections in the project are:
-	Data Wrangling 
-	Exploratory Data Analysis
+	Data Wrangling, 
+	Exploratory Data Analysis and 
 	Conclusions
 	
 ###### The data contains 14 columns:
